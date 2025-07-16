@@ -29,7 +29,7 @@ A Laravel 12 web application for Indian sellers to register, create products, an
 
 ### 1. Clone & Install
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Sociapian/woo-synq
 cd woocommerce-sync
 composer install
 cp .env.example .env
