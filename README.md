@@ -1,4 +1,4 @@
-# Indian Products Sync
+# Laravel Woo-Synq
 
 A Laravel 12 web application for Indian sellers to register, create products, and sync them to their WooCommerce store via API. Features INR currency, Indian product examples, and a modern UI.
 
